@@ -1,0 +1,48 @@
+Parts:
+- SHAFT
++ DRIVE HEAD
++ END CAP
+- BASE COVER
+BODY
+BRACKET
+CASING COVER
+
+Alex:
+	BODY
+	END CAP
+Eli:
+	SHAFT
+	BASE COVER
+
+1. Design the SHAFT.
+The SHAFT in the attached drawings is
+illustrative. Your design will be a much
+more complex shaft. Only the part of the
+SHAFT marked with a thick green line in the
+assembly drawing (DRIVE HEAD, #005,
+SHEET 3) may be changed. Add the
+necessary annotation. The design must
+make provision for bearing seating and
+radial shaft seals (choose from the VP series
+in the catalogue) for the END CAP and BASE
+COVER. You must also incorporate the use
+of at least one circlip in the shaft design.
+The SHAFT will be manufactured from
+STEEL 1431/350WA
+
+Page 5 of 14 Pages - Bladsy 5 van 14 Bladsye
+4. Make the BASE COVER drawing.
+Annotate the holes for the shaft and the M8
+bolts connecting the BASE COVER to the
+BODY. Design the seating for the radial
+shaft seal (choose from the VP series in the
+catalogue) housed in the BASE COVER, with
+annotation as necessary. Design and
+annotate the interface between the BASE
+COVER and the BODY, and between the
+BASE COVER and the bearing. No other
+dimensions necessary. Only the parts
+marked with the thick blue line in the
+assembly drawing (DRIVE HEAD, #005,
+SHEET 3) may be changed. The CASING
+COVER will be manufactured from cast iron
